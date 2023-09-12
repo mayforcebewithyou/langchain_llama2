@@ -10,7 +10,7 @@ The following dependencies are required:
 
 - Streamlit
 - Llama C++
-- Quantized Llama model file
+- Quantized Llama model file - As an alternative, I have downloaded the llama2 7B chat file and quantized using convert.py file (refer to youtube videos for quantizing llama)
 
 Install requirements:
 
